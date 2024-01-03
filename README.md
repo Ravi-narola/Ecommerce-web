@@ -1,3 +1,3 @@
 <h1>Ecommerse FULL Website <h1><br>
-<p> add product<p><br>
-<p>cart section<p><br>
+<p> add product<p>
+<p>cart section<p>
